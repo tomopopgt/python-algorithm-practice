@@ -1,2 +1,8 @@
-abracadabra
-abra
+4 3
+apple
+app
+application
+banana
+app
+ban
+cat
